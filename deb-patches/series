@@ -1,0 +1,9 @@
+Don-t-exit-if-failed-to-adjust-OOM-score.patch
+Patch-Makefiles-to-honor-CFLAGS-and-LDFLAGS.patch
+Remove-custom-library-search-paths-from-Makefiles.patch
+Remove-useless-dependency-against-Xext-library.patch
+Use-PAM-for-authentication.patch
+slock-Do-not-drop-privileges.patch
+slock-Fix-resize-with-multiple-monitors-and-portrait-mode.patch
+slock-Properly-clear-the-last-entered-character.patch
+slock-there-can-only-be-one-window-in-the-event.patch
