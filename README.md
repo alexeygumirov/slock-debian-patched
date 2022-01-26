@@ -19,4 +19,4 @@ But for the sake of reference, all applied Debian patches are put in the `deb-pa
 
 ## Patching with Suckless patches
 
-This source code can be patched with all [patches from suckless.org](https://tools.suckless.org/slock/patches/) but most of them shall be applied manually because `slock.c` and `config.mk` here are already patched by Debian and therefore differ from the original.
+This source code can be patched with all [patches from suckless.org](https://tools.suckless.org/slock/patches/) but most of them shall be applied manually because `slock.c` and `config.mk` here differ from the original.
