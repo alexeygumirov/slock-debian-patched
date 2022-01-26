@@ -1,12 +1,14 @@
 # Suckless Slock with Debian patches
 
+> **Attention**: This is `slock` v1.4 with Debian patches applied. It works correctly on Debian, Ubuntu and most probably other forks of Debian. But it **DOES NOT** work on Arch and its forks. And I have not tested it on other distros.
+
 I am using Ubuntu on my work PC and I use [Suckless `slock`](https://tools.suckless.org/slock/).
 
 And I can install **suckless-tools** package using **apt** from Ubuntu repositories but this `slock` binary comes with default configuration and you cannot change it.
 I wanted to use `slock` with different background color, and with couple more patches from the Suckless web site.
 
 But when I cloned [slock Git repo](https://git.suckless.org/slock) and applied all patches, it did not work.
-Just simply compiled **slock** does not unlock computer.
+Just simply compiled `slock` does not unlock computer.
 
 I looked into Debian **suckless-tool** sources and found that Debian version is modified with additional patches which remove unused dependcies and allowing `slock` to work with PAM, therefore correctly unlock system.
 
