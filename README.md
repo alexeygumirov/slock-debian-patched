@@ -15,7 +15,7 @@ I looked into Debian **suckless-tool** sources and found that Debian version is 
 Source files with Debian patches are downloaded here: [http://archive.ubuntu.com/ubuntu/pool/universe/s/suckless-tools/suckless-tools_44-1.debian.tar.xz](http://archive.ubuntu.com/ubuntu/pool/universe/s/suckless-tools/suckless-tools_44-1.debian.tar.xz).
 
 > **Important**: You don't need to patch this source with Debian patches, they are already applied by me.
-But for the sake of reference, all applied Debian patches are put in the `deb-patches/` subfolder, hence you can check if all done correctly. :)
+But for the sake of reference, all applied Debian patches are put in the `deb-patches/` subfolder, hence you can check if I applied patches correctly. 😉
 
 ## Patching with Suckless patches
 
