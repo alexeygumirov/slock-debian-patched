@@ -1,3 +1,13 @@
+# 👋 THIS REPOSITORY HAS MOVED! 👋
+
+**This repository is no longer actively maintained on GitHub. It has been archived and is read-only.**
+
+Please update your bookmarks and remotes to the new home on Codeberg:
+
+➡️ **[https://codeberg.org/alexeygumirov/slock-debian-patched](https://codeberg.org/alexeygumirov/slock-debian-patched)** ⬅️
+
+Thank you for your understanding and continued support!
+
 # Suckless Slock with Debian patches
 
 > **Attention**: This is `slock` v1.4 with Debian patches applied. It works correctly on Debian, Ubuntu and most probably other forks of Debian. But it **DOES NOT** work on Arch and its forks. And I have not tested it on other distros.
